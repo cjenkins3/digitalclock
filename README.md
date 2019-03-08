@@ -1,1 +1,4 @@
 # digitalclock
+---
+permalink: /clock.html
+---
